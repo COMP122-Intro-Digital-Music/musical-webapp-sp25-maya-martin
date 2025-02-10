@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Typewriter",
+    "file": "samples/typewriterDAW2.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Aimon-Nous-Accomp",
+    "file": "samples/Aimons-nous_Accompaniment.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Solemnly-Swear",
+    "file": "samples/fdrDAW2.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
