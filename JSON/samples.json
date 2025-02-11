@@ -9,7 +9,7 @@
   },
   {
     "name": "Aimon-Nous-Accomp",
-    "file": "samples/Aimons-nous_Accompaniment.mp3",
+    "file": "samples/aimonnousDAW2.mp3",
     "bpm": 120,
     "loop": "1m",
     "grain": 0.04,
